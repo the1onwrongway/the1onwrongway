@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 👨‍💻 Currently working on<br>Building ETL pipelines with Spark & Glue, optimizing data lakes using Athena, and creating dashboards in QuickSight & Power BI.<br><br>🤝 Looking to collaborate on<br>Big data projects, scalable data lakes, and analytics solutions using PySpark, Glue, and Athena.<br><br>🆘 Need help with<br>Data modeling, Spark performance tuning, and integrating Airflow/Step Functions in pipelines.<br><br>📚 Learning<br>Workflow orchestration, Redshift/Snowflake, and prepping for AWS certifications.<br><br>💬 Ask me about<br>ETL design, Athena queries, QuickSight dashboards, and Python data workflows.<br><br>🎉 Fun Fact<br>I name my projects like Bond films. “No Margin for Error” and more dashboards!
 
 
