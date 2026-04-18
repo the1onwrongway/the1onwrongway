@@ -1,21 +1,79 @@
-# 💫 About Me
-👨‍💻 Currently working on<br>Building ETL pipelines with Spark & Glue, optimizing data lakes using Athena, and creating dashboards in QuickSight & Power BI.<br><br>🤝 Looking to collaborate on<br>Big data projects, scalable data lakes, and analytics solutions using PySpark, Glue, and Athena.<br><br>🆘 Need help with<br>Data modeling, Spark performance tuning, and integrating Airflow/Step Functions in pipelines.<br><br>📚 Learning<br>Workflow orchestration, Redshift/Snowflake, and prepping for AWS certifications.<br><br>💬 Ask me about<br>ETL design, Athena queries, QuickSight dashboards, and Python data workflows.<br><br>🎉 Fun Fact<br>I name my projects like Bond films. “No Margin for Error” and more dashboards!
+# Milan Gabriel
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the1onwrongway) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/milan-gabriel) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/the1onwrongway) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/the01onwrongway) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@the1onwrongway) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:milangabrielmacwan@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23255E63.svg?logo=About.me&logoColor=white)](https://the1onwrongway.github.io/)
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=the1onwrongway&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=the1onwrongway&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=the1onwrongway&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=the1onwrongway&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+Data Engineer focused on building reliable, scalable data systems — not just pipelines that “run”, but pipelines that can be trusted.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=the1onwrongway&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I Do
+
+- Build **end-to-end data pipelines** using Spark, AWS Glue, and S3  
+- Work with **large, messy datasets** and turn them into structured, usable layers  
+- Optimize **query performance and cost** using Athena and partitioning strategies  
+- Create **analytics layers and dashboards** in QuickSight and Power BI  
+- Focus on **data quality, idempotency, and production-aligned design**
+
+---
+
+## Projects & Work
+
+- Built ETL pipelines simulating real-world ingestion and transformation workflows  
+- Designed data models for analytics (customer, revenue, behavioral insights)  
+- Created dashboards focused on **decision-making, not just visuals**  
+- Worked on **incremental ingestion and large-scale data handling**
+
+---
+
+## Community & Leadership
+
+- Core contributor with Indian Data Club (IDC)  
+- Designed and evaluated problem statements for large-scale hackathons (Databricks-focused)  
+- Served as **judge/panelist**, evaluating real-world data and AI solutions under pressure  
+- Regularly review how teams move from **idea → execution** across multiple approaches  
+- Contribute to a community focused on **practical, production-oriented data engineering**
+
+---
+
+## How I Think About Data Engineering
+
+- Most of the work is in **cleaning and structuring bad data** — not writing fancy code  
+- Pipelines should be **idempotent, observable, and cost-aware**  
+- Good systems reduce **manual intervention over time**  
+- If it breaks silently, it’s a bad system  
+
+---
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
+## Currently Learning
+
+- Workflow orchestration (Airflow / Step Functions)  
+- Advanced data modeling  
+- Spark performance tuning  
+- AWS certifications  
+
+---
+
+## Connect
+
+- LinkedIn: https://linkedin.com/in/milan-gabriel  
+- Portfolio: https://the1onwrongway.github.io/  
+- Email: milangabrielmacwan@gmail.com  
+
+---
+
+## Fun Detail
+
+Yes, I still name my projects like Bond films.  
+*“No Margin for Error” drops next week.*
